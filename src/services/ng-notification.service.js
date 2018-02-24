@@ -5,7 +5,7 @@
 
     mxngNotificationService.$inject = ["toastr"];
 
-    function notificationService(toastr) {
+    function mxngNotificationService(toastr) {
         function displaySuccess(message) {
             toastr.success(message);
         }
