@@ -1,8 +1,8 @@
 {
-    "name": "mx-angular-api-service",
-    "description": "AngularJS service for calling REST APIs",
+    "name": "mx-ng-notification-service",
+    "description": "AngularJS service for showing toast notifications",
     "version": "1.0.0",
-    "homepage": "https://github.com/maxotek/mx-angular-api-service",
+    "homepage": "https://github.com/maxotek/mx-ng-notification-service",
     "license": "MIT",
     "private": false,
     "dependencies": {
